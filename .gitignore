@@ -1,0 +1,19 @@
+# Java,  Scala
+*.class
+*.jar
+
+# Python
+venv/
+*.pyc
+__pycache__/
+
+# VS Code 
+.vscode/
+
+# nodejs ts
+node_modules/
+package-lock.json
+
+# Log Files
+*.log
+*.log.*

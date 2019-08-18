@@ -1,0 +1,107 @@
+{
+  "paragraphs": [
+    {
+      "text": "file \u003d sc.textFile(\u0027README.md\u0027)",
+      "user": "anonymous",
+      "dateUpdated": "2019-08-17 00:16:26.741",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u003cconsole\u003e:1: error: unclosed character literal\nfile \u003d sc.textFile(\u0027README.md\u0027)\n                             ^\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1566000963320_1537498729",
+      "id": "20190817-001603_1276776079",
+      "dateCreated": "2019-08-17 00:16:03.320",
+      "dateStarted": "2019-08-17 00:16:26.821",
+      "dateFinished": "2019-08-17 00:16:47.722",
+      "status": "ERROR",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "text": "file.count()",
+      "user": "anonymous",
+      "dateUpdated": "2019-08-17 00:16:33.372",
+      "config": {
+        "colWidth": 12.0,
+        "fontSize": 9.0,
+        "enabled": true,
+        "results": {},
+        "editorSetting": {
+          "language": "scala",
+          "editOnDblClick": false,
+          "completionKey": "TAB",
+          "completionSupport": true
+        },
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "results": {
+        "code": "ERROR",
+        "msg": [
+          {
+            "type": "TEXT",
+            "data": "\u003cconsole\u003e:24: error: not found: value file\n       file.count()\n       ^\n"
+          }
+        ]
+      },
+      "apps": [],
+      "jobName": "paragraph_1566000986744_-2045733977",
+      "id": "20190817-001626_1293665562",
+      "dateCreated": "2019-08-17 00:16:26.745",
+      "dateStarted": "2019-08-17 00:16:33.500",
+      "dateFinished": "2019-08-17 00:16:47.903",
+      "status": "ERROR",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1566000993372_-1950798649",
+      "id": "20190817-001633_94271048",
+      "dateCreated": "2019-08-17 00:16:33.372",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Example1",
+  "id": "2EKZ94HBX",
+  "noteParams": {},
+  "noteForms": {},
+  "angularObjects": {
+    "spark:shared_process": []
+  },
+  "config": {
+    "isZeppelinNotebookCronEnable": false
+  },
+  "info": {}
+}
